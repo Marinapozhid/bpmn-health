@@ -57,6 +57,6 @@ Business processes description give an overview of the entire model of business 
 •	BPM+ Health - these are standards, that “are backed by execution semantics, Shareable Clinical Pathways provide technological rigor yet are understandable by business analysts and healthcare professionals”, according to OMG Healthcare Domain Taskforce. In simple words, methodology for clinical pathway modeling
 
 
-Have a look on utilization of BPM+ Health for representation of	[Influenza Process Model] (https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=8075494_103_3410599f4.jpg)
+Have a look on utilization of BPM+ Health for representation of	[Influenza Process Model](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=8075494_103_3410599f4.jpg)
 
 Have you ever dealt with the BPM approach or BPMN notation within the healthcare domain context?
