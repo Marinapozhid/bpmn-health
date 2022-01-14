@@ -20,9 +20,9 @@ Looking for the answer, I learned about an interesting community working on know
 
 There are three main categories of professionals that are involved in clinical workflow optimization and automation: 
 
-•	healthcare professionals
-•	business analysts
-•	IT developers
+*	healthcare professionals
+*	business analysts
+*	IT developers
 
 So, medical processes should be *readable* and clear for all of them. In the form of narrative text, clinical pathway definitions can be interpreted in multiple variations. Possible? Certainly, particularly when there are lots of those crazy long medical terms. 
 
