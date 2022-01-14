@@ -3,11 +3,10 @@
 In the context of healthcare, IT technologies are actively utilized helping to improve the quality of medical services. However, IT specialists working in the health sector yet are far from being done.
 
 What are the health system challenges where the technology may help? According to WHO, they are as follows: 
-
-•	insufficient supply of commodities
-•	healthcare providers poor adherence to clinical guidelines
-•	lack of access to information or data
-•	loss to follow-up of clients
+*	insufficient supply of commodities
+*	healthcare providers poor adherence to clinical guidelines
+*	lack of access to information or data
+*	loss to follow-up of clients
 
 Various information systems had developed, and continue to be developing, to optimize and automize lots of processes in healthcare. Is health care a business? I am sure your answer is “yes”. So, the healthcare processes are business processes, right? 
 
@@ -21,9 +20,9 @@ Looking for the answer, I learned about an interesting community working on know
 
 There are three main categories of professionals that are involved in clinical workflow optimization and automation: 
 
-•	healthcare professionals
-•	business analysts
-•	IT developers
+*	healthcare professionals
+*	business analysts
+*	IT developers
 
 So, medical processes should be *readable* and clear for all of them. In the form of narrative text, clinical pathway definitions can be interpreted in multiple variations. Possible? Certainly, particularly when there are lots of those crazy long medical terms. 
 
