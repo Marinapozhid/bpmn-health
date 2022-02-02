@@ -70,5 +70,5 @@ Have you ever dealt with the BPM approach or BPMN notation within the healthcare
 2. [The Association of Business Process Management Professionals](https://www.abpmp.org/)
 3. [The Standards Development Organization OMG](https://www.omg.org/oceb-2/)
 4. [Tomaskova H, Kopecky M. Specialization of Business Process Model and Notation Applications in Medicine—A Review. Data. 2020; 5(4):99.](https://doi.org/10.3390/data5040099)
-5. [J. Gomes, F. Portela and M. F. Santos Introduction to BPM approach in Healthcare and Case Study of End User Interaction with EHR Interface Procedia Computer Science 2018 Vol. 141 Pages 519-524](https://doi.org/10.1016/j.procs.2018.10.132)
+5. [Gomes J., Portela F. and Santos M. F. Introduction to BPM approach in Healthcare and Case Study of End User Interaction with EHR Interface Procedia Computer Science 2018; 141: 519-524](https://doi.org/10.1016/j.procs.2018.10.132)
 
