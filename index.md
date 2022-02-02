@@ -26,6 +26,7 @@ There are three main categories of professionals that are involved in clinical w
 *	healthcare professionals
 *	business analysts
 *	IT developers
+
 So, medical processes should be *readable* and clear for all of them. In the form of narrative text, clinical pathway definitions can be interpreted in multiple variations. Possible? Certainly, particularly when there are lots of those crazy long medical terms. 
 
 The BPMHW has published the Field Guide to Shareable Clinical Pathways. *“A handbook to help business analysts and knowledge engineers create models; clinical experts understand and validate models; and programmers and systems analysts implement the models”* – this is how they define the guide.
