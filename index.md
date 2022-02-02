@@ -7,7 +7,7 @@ In the context of healthcare, IT technologies are actively utilized helping to i
 
 What are the health system challenges where the technology may help? According to WHO, they are as follows: 
 *	insufficient supply of commodities
-*	healthcare providers poor adherence to clinical guidelines
+*	healthcare provider's poor adherence to clinical guidelines
 *	lack of access to information or data
 *	loss to follow-up of clients
 
@@ -66,9 +66,10 @@ Have a look on utilization of BPM+ Health for representation of	[Alzheimer's dis
 Have you ever dealt with the BPM approach or BPMN notation within the healthcare domain context?
 
 ## References
-1. [The OMG managed community BPM+ Health](https://www.bpm-plus.org/)
-2. [The Association of Business Process Management Professionals](https://www.abpmp.org/)
-3. [The Standards Development Organization OMG](https://www.omg.org/oceb-2/)
-4. [Tomaskova H, Kopecky M. Specialization of Business Process Model and Notation Applications in Medicine—A Review. Data. 2020; 5(4):99.](https://doi.org/10.3390/data5040099)
-5. [Gomes J., Portela F. and Santos M. F. Introduction to BPM approach in Healthcare and Case Study of End User Interaction with EHR Interface Procedia Computer Science 2018; 141: 519-524](https://doi.org/10.1016/j.procs.2018.10.132)
+1. [WHO, Classification of Digital Health Interventions v1.0](https://www.who.int/reproductivehealth/publications/mhealth/classification-digital-health-interventions/en/)
+2. [The OMG managed community BPM+ Health](https://www.bpm-plus.org/)
+3. [The Association of Business Process Management Professionals](https://www.abpmp.org/)
+4. [The Standards Development Organization OMG](https://www.omg.org/oceb-2/)
+5. [Tomaskova H, Kopecky M. Specialization of Business Process Model and Notation Applications in Medicine—A Review. Data. 2020; 5(4):99.](https://doi.org/10.3390/data5040099)
+6. [Gomes J., Portela F. and Santos M. F. Introduction to BPM approach in Healthcare and Case Study of End User Interaction with EHR Interface Procedia Computer Science 2018; 141: 519-524](https://doi.org/10.1016/j.procs.2018.10.132)
 
