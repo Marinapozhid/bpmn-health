@@ -38,7 +38,7 @@ It makes sense to implement the effective approach that has been proved over a l
 Firstly, well-defined clinical pathways are capable to determine the data requirements necessary for interoperability among systems and healthcare organizations.
 
 Furthermore, it’s crucial for software vendors to interpret the clinical pathways in the right way and to build software logic around those pathways. Electronic Health Records systems are designed to automate clinical workflows and allow access to evidence-based tools that providers can use to make decisions about a patient’s care. There are hundreds of vendors offering some type of EHR product. For your information, the approaches for software implementation of BPM+ Health are discussed among Process Automation & Enablement Working Group members bi-weekly.
-! [Word cloud figure based on the analysis of abstracts from systematic review by Tomaskova and Kopecky 2020] ()
+![Word cloud figure based on the analysis of abstracts from systematic review by Tomaskova and Kopecky 2020](wordcloud.png "wordcloud")
 
 To sum up, clinical workflow consists of very complex processes involving a number of diverse specialists. Processes modeling requires quite a lot of theoretical knowledge and experience from a developer in order to make a model overarching and accurate. However, when it comes to the BPM systems (BPMS), the current tendency is to develop low-code or even no-code platforms. Look at the vendors' websites: “Zero coding!”; “No programming skills needed!”.
 What’s the catch?
