@@ -17,6 +17,8 @@ Let’s imagine that we are in a hospital. For example, outpatient department. A
 
 Is there a clear border between business processes and clinical care pathways? By my reckoning, the processes are interlacing, one inside the other. Are the approaches used within the business context applicable for healthcare needs? 
 
+![BPM in healthcare](bpminmed.png)
+
 Looking for the answer, I learned about an interesting community working on knowledge management and dissemination challenges in the healthcare sector. This is the Business Process Management in Health Workgroup (BPMHW) of the Object Management Group (OMG). In order to capture, structure, annotate and store guidelines and best approaches to practicing medicine, the group of experts works on the application of widely used in other industries standard languages – including Business Process Model and Notation (BPMN), Case Management Model and Notation (CMMN), and Decision Model and Notation (DMN) to healthcare systems. Collectively, the three standards (BPMN, CMMN, and DMN) are referred to as “BPM+”. 
 
 ## ***Who can benefit from BPM+ Health?***
@@ -38,6 +40,7 @@ It makes sense to implement the effective approach that has been proved over a l
 Firstly, well-defined clinical pathways are capable to determine the data requirements necessary for interoperability among systems and healthcare organizations.
 
 Furthermore, it’s crucial for software vendors to interpret the clinical pathways in the right way and to build software logic around those pathways. Electronic Health Records systems are designed to automate clinical workflows and allow access to evidence-based tools that providers can use to make decisions about a patient’s care. There are hundreds of vendors offering some type of EHR product. For your information, the approaches for software implementation of BPM+ Health are discussed among Process Automation & Enablement Working Group members bi-weekly.
+
 ![Word cloud figure based on the analysis of abstracts from systematic review by Tomaskova and Kopecky 2020](wordcloud.png "wordcloud")
 
 To sum up, clinical workflow consists of very complex processes involving a number of diverse specialists. Processes modeling requires quite a lot of theoretical knowledge and experience from a developer in order to make a model overarching and accurate. However, when it comes to the BPM systems (BPMS), the current tendency is to develop low-code or even no-code platforms. Look at the vendors' websites: “Zero coding!”; “No programming skills needed!”.
@@ -58,7 +61,14 @@ Business processes description give an overview of the entire model of business 
 •	BPM+ Health - these are standards, that “are backed by execution semantics, Shareable Clinical Pathways provide technological rigor yet are understandable by business analysts and healthcare professionals”, according to OMG Healthcare Domain Taskforce. In simple words, methodology for clinical pathway modeling
 
 
-Have a look on utilization of BPM+ Health for representation of	[Influenza Process Model](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=8075494_103_3410599f4.jpg)
+Have a look on utilization of BPM+ Health for representation of	[Alzheimer's disease patients care process](https://www.mdpi.com/2306-5729/5/1/16).
 
 Have you ever dealt with the BPM approach or BPMN notation within the healthcare domain context?
+
+## References
+1. [The OMG managed community BPM+ Health](https://www.bpm-plus.org/)
+2. [The Association of Business Process Management Professionals](https://www.abpmp.org/)
+3. [The Standards Development Organization OMG](https://www.omg.org/oceb-2/)
+4. [Tomaskova H, Kopecky M. Specialization of Business Process Model and Notation Applications in Medicine—A Review. Data. 2020; 5(4):99.](https://doi.org/10.3390/data5040099)
+5. [J. Gomes, F. Portela and M. F. Santos Introduction to BPM approach in Healthcare and Case Study of End User Interaction with EHR Interface Procedia Computer Science 2018 Vol. 141 Pages 519-524](https://doi.org/10.1016/j.procs.2018.10.132)
 
